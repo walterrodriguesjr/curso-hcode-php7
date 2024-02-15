@@ -1,0 +1,5 @@
+8-o que é git 
+-é um gerenciador de controle de versão 
+
+9-instalando o Git e clonando um repositório 
+-OK 

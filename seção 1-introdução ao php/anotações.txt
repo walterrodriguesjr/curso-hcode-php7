@@ -1,0 +1,31 @@
+1-boas vindas 
+-ok
+
+2-como funciona a plataforma da udemy 
+-ok
+
+3-dúvidas, certificados de conclusão etc... 
+-ok 
+
+4-história do PHP e evolução da linguagem 
+-criado por rasmus lerdorf 
+-PHP = personal homepage 
+-PHP é mantida pela empresa Zend 
+-é uma linguagem fracamente tipada 
+-é open source 
+-foi escrita em linguagem C 
+
+5-preparando o ambiente-instalando o php7 e apache
+-xampp 
+
+6-editor vs IDE e hello world 
+-vscode da microsoft 
+
+7-a arquitetura cliente/servidor 
+-php é uma linguagem que roda no lado do servidor (back-end)
+-voltado para desenvolvimento web 
+
+
+
+
+
