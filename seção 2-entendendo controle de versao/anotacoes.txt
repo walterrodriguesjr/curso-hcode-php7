@@ -3,3 +3,12 @@
 
 9-instalando o Git e clonando um repositório 
 -OK 
+
+10-criando o seu repositório
+-OK 
+
+11-github vs bitBucket 
+-OK 
+
+12-editando arquivos remotos e resolvendo conflitos 
+-
