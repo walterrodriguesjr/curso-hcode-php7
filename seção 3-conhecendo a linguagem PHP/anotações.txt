@@ -1,0 +1,20 @@
+13-utilizando variáveis com PHP 
+-variáveis são espaços na memória, como se fossem caixas para armazenar algo; 
+-variáveis tipo simples podem armazenar diversos tipos de dados(int, float, string, boolean);
+-sempre começa com sifrão ($);
+-pelo fato de PHP ser fracamente tipada, a tipagem da variável não é obrigatório;
+
+14-conhecendo os tipos de dados em PHP 
+-usar nomes auto-explicativos
+-PHP é case sensitive
+-se for palavra simples, iniciar com letra minúscula (salvo exceções, classes etc...)
+-se for palavra composta, usar o 'camelCase', que é a primeira minúscula com emenda maiúscula 
+-sempre finalizar com ponto e vírgula ';'
+-pode ter números no nome da variável, mas nunca no início 
+-não pode usar palavras reservas 
+-concatenação entre variável sempre entre ponto (.), podendo separar por espaço ' '
+-variáveis tipos compostos (arrays e objetos) 
+-tipos especiais (resource e null)
+-null é ausência de valor, vazio já foi iniciado e ja tem espaço reservado na memória 
+
+

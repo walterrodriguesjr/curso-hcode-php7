@@ -11,4 +11,4 @@
 -OK 
 
 12-editando arquivos remotos e resolvendo conflitos 
--testando aleração direto no git
+-testando aleração direto no git-OK
